@@ -6,6 +6,8 @@ https://www.youtube.com/watch?v=KLCnTjB0w_o&t=3682s
 - might be a great place to start
 - only 1.3 hours
 
+#####RESUME VIDEO AT 22 MINS OF VIDEO ABOVE
+
 #Shopping with react and redux 
 https://www.youtube.com/watch?v=T_HtlP80UYc&t=46s PART ONE
 https://www.youtube.com/watch?v=5G3zSueEYuo&t=9s PART TWO
